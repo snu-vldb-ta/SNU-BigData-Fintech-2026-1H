@@ -100,7 +100,13 @@ INSERT INTO SALGRADE VALUES (5,3001,9999);
 ## 4. 데이터 확인
 ```sql
 SELECT * FROM DEPT;
+```
+```sql
 SELECT * FROM EMP;
+```
+```sql
 SELECT * FROM BONUS;
+```
+```sql
 SELECT * FROM SALGRADE;
 ```
