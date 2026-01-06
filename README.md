@@ -30,6 +30,7 @@
 
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
+  | [NL2SQL_1.ipynb](./2/NL2SQL_1.ipynb) | NL2SQL 실습 |
   | [2.1 Relational Algebra (LiveSQL)](<./2/2.1 relational algebra (LiveSQL).md>) | 수업 보충자료 |
   | [2.1 Relational Algebra (LiveSQL) with results](<./2/2.1 relational algebra (LiveSQL)_with_results.md>) | 수업 보충자료 |
   | [2.2 Basic SQL (LiveSQL)](<./2/2.2 basic sql (LiveSQL).md>)       | 수업 보충자료 |
