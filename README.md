@@ -15,6 +15,7 @@
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
   | [LiveSQL, Postgres Installation](./1/livesql_postgres_installation.pdf) | 실습 |
+  | [Oracle Installation](./1/oracle_installation.md) | 보충자료 | 
   | [scott.sql](./1/scott.md)                                                            | 실습          |
   | [1.1 Introduction to DB (LiveSQL)](<./1/1.1%20Introduction%20to%20DB%20(LiveSQL).md>) | 수업 보충자료 |
   | [1.1 Introduction to DB (LiveSQL) with results](<./1/1.1%20Introduction%20to%20DB%20(LiveSQL)_with_results.md>) | 수업 보충자료 |
