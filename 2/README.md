@@ -3,7 +3,7 @@
 1. NL2SQL 실습
     - SQLite + OpenAI API를 활용한 자연어 → SQL 변환 실습을 진행합니다.
     - 다음 파일들을 참고하세요:
-        - [NL2SQL_1.ipynb](./NL2SQL_1.ipynb)
+        - [NL2SQL_1.ipynb](./NL2SQL.ipynb)
         - [nl2sql_1.pdf](./nl2sql_1.pdf)
 
 2. 수업 자료 활용
